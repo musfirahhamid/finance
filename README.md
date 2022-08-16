@@ -17,3 +17,8 @@ also includes neat gallery, pricing plans, testimonial section, contact form and
 
 It is a Tailwind CSS website template, so you know it follows all the latest trends. In other words, your
 website will run smoothly on modern devices and platforms.
+
+
+
+
+![Screenshot 2022-08-16 at 23-42-07 Finance](https://user-images.githubusercontent.com/95566104/184955623-95fbce10-25d7-49fc-a2a1-29bfa53b91b9.png)
